@@ -1,2 +1,4 @@
-# CV_Portfolio
-A portfolio of hardware &amp; embedded projects: ESP32 Bluetooth control, FPGA DE2 signal processing, CC2538 and Contiki-OS IoT monitoring, and 5GHz RF PCB design.
+# Gesture_Car_Control
+Bluetooth Remote-Controlled Car via ESP32 & MPU6050
+* **Technologies:** ESP32, MPU6050 (Accelerometer & Gyroscope), Bluetooth.
+* **Description:** Developed a remote-controlled car system utilizing an ESP32 microcontroller. The system integrates an MPU6050 sensor to capture motion/orientation data, which is then transmitted via Bluetooth to remotely control the vehicle's movement with low latency.
